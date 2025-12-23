@@ -3,7 +3,7 @@
 public class AddTwoNum{
 
 //method to sum 
-public static  int calcultatesum(int num1 , int num2){
+public static  int calcultateSum(int num1 , int num2){
 	return num1+num2;
 }
 
